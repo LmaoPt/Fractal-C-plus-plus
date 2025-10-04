@@ -1,0 +1,3 @@
+﻿  SquareDraw.cpp
+C:\Users\Владислав\source\repos\SquareDraw\SquareDraw\SquareDraw.cpp(45,19): warning C4305: инициализация: усечение из "double" в "const float"
+  SquareDraw.vcxproj -> C:\Users\Владислав\source\repos\SquareDraw\x64\Debug\SquareDraw.exe
