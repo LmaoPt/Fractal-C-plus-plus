@@ -97,7 +97,7 @@ public:
 void DrawFractal() {
 	int count = 0;
 
-	sf::RenderWindow window(sf::VideoMode(1920, 1080), "Zadnica");
+	sf::RenderWindow window(sf::VideoMode(1920, 1080), "Fractal");
 
 	Turtle turtle;
 	turtle.Init(&window, 10, 0, 800, 200);
